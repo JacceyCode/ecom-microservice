@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <excludeFolder url="file://$MODULE_DIR$/additional/evaluate-loki" />
+      <excludeFolder url="file://$MODULE_DIR$/additional/evaluate-prometheus" />
+      <excludeFolder url="file://$MODULE_DIR$/additional/kafka/consumer" />
+      <excludeFolder url="file://$MODULE_DIR$/additional/kafka/consumer/target" />
+      <excludeFolder url="file://$MODULE_DIR$/additional/kafka/producer" />
+      <excludeFolder url="file://$MODULE_DIR$/additional/kafka/producer/target" />
+      <excludeFolder url="file://$MODULE_DIR$/additional/keycloak" />
+      <excludeFolder url="file://$MODULE_DIR$/additional/keycloak/auth-code-flow/.idea" />
+      <excludeFolder url="file://$MODULE_DIR$/additional/keycloak/auth-code-flow/target" />
+      <excludeFolder url="file://$MODULE_DIR$/logs" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>
